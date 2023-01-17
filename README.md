@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar</h1>
-<h3 align="center">A passionate MERN stack developer from Bengaluru India</h3>
+<h3 align="center">A passionate MERN Stack Developer from Bengaluru India</h3>
 
 - 🌱 I’m currently learning **Devops(Azure, Aws, Google Cloud)**
 
