@@ -10,6 +10,18 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2024%20mins-blue)
 
+**🐱 My GitHub Data** 
+
+> 🏆 51 Contributions in the Year 2023
+ > 
+> 📦 39.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 1 Public Repository 
+ > 
+> 🔑 12 Private Repositories  
+ > 
 **I'm an Early 🐤** 
 
 ```text
@@ -59,7 +71,7 @@ Dart                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2023 07:58:01 UTC
+ Last Updated on 17/01/2023 08:00:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
