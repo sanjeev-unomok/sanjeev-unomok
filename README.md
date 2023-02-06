@@ -21,11 +21,11 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=sanjeev-unomok&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%201%20min-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 61 Contributions in the Year 2023
+> 🏆 69 Contributions in the Year 2023
  > 
 > 📦 39.8 kB Used in GitHub's Storage 
  > 
@@ -62,14 +62,17 @@ Sunday       10 commits     ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 mins             ██████████████████████░░░   90.98% 
-JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   9.02%
+JavaScript               4 hrs 28 mins       ███████████░░░░░░░░░░░░░░   45.69% 
+TypeScript               4 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.4% 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94% 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.0%
+VS Code                  9 hrs 46 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    18 mins             █████████████████████████   100.0%
+Linux                    9 hrs 46 mins       █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +88,7 @@ Dart                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2023 02:52:20 UTC
+ Last Updated on 06/02/2023 02:54:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
